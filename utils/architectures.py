@@ -9,7 +9,7 @@ from tensorflow.keras.applications.resnet import ResNet152
 
 def residual_attention_56(input_shape, output_size): #m = 1 so 36*1 + 20 = 56   
     '''
-    Attention-92 Network Structure
+    Attention-56 Network Structure
     '''
 
     
