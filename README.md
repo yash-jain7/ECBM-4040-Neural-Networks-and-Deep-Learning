@@ -8,8 +8,8 @@ In this project, we have compared the performance of various Attention models (N
 
 
 
-# Credits
-We would like to thank Prof. Zoran Kostic and the teaching assistants for the guidance and resources provided to us to complete this project. 
+# Acknowledgements
+We would like to thank Prof. Zoran Kostic and the teaching assistants for their guidance and resources provided to us to complete this project. 
 
 
 
