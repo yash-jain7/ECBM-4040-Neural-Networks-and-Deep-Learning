@@ -48,7 +48,7 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 To be populated by students, as shown in previous assignments.
 Create a directory/file tree
 ```
-.
+
 ├── Final Project Report.pdf
 ├── README.md
 ├── cifar100_Attention56.ipynb
