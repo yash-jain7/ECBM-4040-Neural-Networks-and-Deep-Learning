@@ -2,7 +2,7 @@
 This project is a part of ECBM E4040: Neural Networks and Deep Learning coursework taught by Prof. Zoran Kostic.
 
 # Project Description
-In this project, we have compared the performance of various Attention models (Naive Attention, Attention-56, Attention-92) with standard neural network architectures for classifying images on two datasets namely CIFAR-10 and CIFAR-100. Each of the .ipynb notebooks represent our implementation for that particular architecture. We have saved our trained models in the the saved_models folder in [GitHub Pages](https://drive.google.com/drive/folders/1r5RKfYQZ9oNkmaIxlBfymrpfm8S8KGFz?usp=sharing). 
+In this project, we have compared the performance of various Attention models (Naive Attention, Attention-56, Attention-92) with standard neural network architectures for classifying images on two datasets namely CIFAR-10 and CIFAR-100. Each of the .ipynb notebooks represent our implementation for that particular architecture. We have saved our trained models in the the saved_models folder in this [drive link](https://drive.google.com/drive/folders/1r5RKfYQZ9oNkmaIxlBfymrpfm8S8KGFz?usp=sharing). 
 
 # Acknowledgements
 We would like to thank Prof. Zoran Kostic and the teaching assistants for their guidance and resources provided to us to complete this project. 
