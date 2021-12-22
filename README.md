@@ -47,3 +47,26 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 # Organization of this directory
 To be populated by students, as shown in previous assignments.
 Create a directory/file tree
+
+.
+├── Final Project Report.pdf
+├── README.md
+├── cifar100_Attention56.ipynb
+├── cifar100_Attention92.ipynb
+├── cifar100_resnet152.ipynb
+├── cifar10_Attention56_NAL.ipynb
+├── cifar10_Attention92.ipynb
+├── cifar10_attention56.ipynb
+├── cifar10_resnet152.ipynb
+├── cifar_naivecnn.ipynb
+├── figures
+│   ├── VM-instance-on-gcp.jpg
+│   ├── attention56-running-on-gcp.jpg
+│   ├── attention92-running-on-gcp.jpg
+│   ├── cifar10-attention56-running-on-gcp.jpg
+│   └── resnet152-running-on-gcp.jpg
+└── utils
+    ├── architectures.py
+    ├── plot.py
+    └── residual_attention_network.py
+2 directories, 18 files
