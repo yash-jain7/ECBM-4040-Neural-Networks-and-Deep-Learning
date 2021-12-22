@@ -8,7 +8,7 @@ In this project, we have compared the performance of various Attention models (N
 We would like to thank Prof. Zoran Kostic and the teaching assistants for their guidance and resources provided to us to complete this project. 
 
 # Organization of this directory
-
+```
 ├── Final Project Report.pdf
 ├── README.md
 ├── cifar100_Attention56.ipynb
@@ -31,4 +31,4 @@ We would like to thank Prof. Zoran Kostic and the teaching assistants for their 
     └── residual_attention_network.py
 2 directories, 18 files
 
-
+```
