@@ -47,7 +47,7 @@ INSTRUCTIONS for naming the students' solution repository for assignments with s
 # Organization of this directory
 To be populated by students, as shown in previous assignments.
 Create a directory/file tree
-
+```
 .
 ├── Final Project Report.pdf
 ├── README.md
@@ -70,3 +70,4 @@ Create a directory/file tree
     ├── plot.py
     └── residual_attention_network.py
 2 directories, 18 files
+```
